@@ -10,3 +10,9 @@
 //e per i multipli di 5 stampi "Buzz" ----> deduco la stessa cosa ma i x 5 e invece di riscrivere If ed Else aggiungerò un Else if
 //Per i numeri che sono siano multipli di 3 che di 5 stampi "FizzBuzz" ----> deduco che dovrò aggiungere un altro Else if
 
+
+
+
+for (i =1; i<=100; ++i) {
+    
+}
