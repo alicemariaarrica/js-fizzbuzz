@@ -18,7 +18,10 @@ for (i = 1; i <= 100; ++i) {
     if (i = i * 3) {
         console.log('Fizz');
     }
+    else if (i = i * 5) {
+        console.log('Buzz');
 
+    }
 
 
 
